@@ -1,0 +1,34 @@
+Article_Number,Title,ChatGPT,DeepSeek,Sum,Related_Label,Manual_Label,AI_Prediction
+1,AI sensation and engagement: Unpacking the sensory experience in human-AI interaction,0.0,0.0,0.0,No,Irrelevant,Irrelevant
+2,Digital Twin based Smart Manufacturing; From Design to Simulation and Optimization Schema,0.5,0.5,1.0,No,Irrelevant,Irrelevant
+3,Distributed H∞ formation control for discrete-time multiagent systems,0.0,0.0,0.0,No,Irrelevant,Irrelevant
+4,Analysis of the Virtual Enterprise Partner Selection Based on Multi-agent System,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+5,NEXUS: Fusing the Real & the Virtual,1.0,1.0,2.0,Yes,Relevant,Relevant
+6,A Multi-agent based framework for Dynamic Service Discovery and access using matchmaking approach,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+7,Verify and trust: A multidimensional survey of zero-trust security in the age of IoT,0.0,0.0,0.0,No,Irrelevant,Irrelevant
+8,"Integration of traditional, transitioning & transformative digital technologies for value co-creation in B2B: A process model",0.0,0.0,0.0,No,Irrelevant,Irrelevant
+9,Developing an assessment governance framework for urban digital twins: Insights from smart cities,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+10,"Cognitive digital twin-based Internet of Robotic Things, multi-sensory extended reality and simulation modeling technologies, and generative artificial intelligence and cyber–physical manufacturing systems in the immersive industrial metaverse",1.0,0.5,1.5,Yes,Relevant,Relevant
+11,Research on a virtual manufacturing system,1.0,0.5,1.5,Yes,Relevant,Relevant
+12,Towards a data fabric framework for industrial metaverse integration,0.5,0.5,1.0,No,Irrelevant,Irrelevant
+13,Multi-Agent Deep Reinforcement Learning for Digital Twin over 6G Wireless Communication in the Metaverse,1.0,1.0,2.0,Yes,Relevant,Relevant
+14,Satisfaction and performance expectations for the adoption of the metaverse in tourism SMEs,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+15,A hybrid analytical concept to QoE index evaluation: Enhancing eMBB service detection in 5G SA networks,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+16,"Past, present, and future of customer engagement",0.0,0.0,0.0,No,Irrelevant,Irrelevant
+17,Modeling spatial-temporal context information in virtual worlds,1.0,0.5,1.5,Yes,Relevant,Relevant
+18,Semantic Information Marketing in the Metaverse: A Learning-Based Contract Theory Framework,1.0,0.5,1.5,Yes,Relevant,Relevant
+19,Towards parallel Metaverse: symbiosis of physical and virtual worlds based on Cybertwin-enabled 6G,0.5,0.5,1.0,No,Relevant,Irrelevant
+20,Emerging Cooperation With Minimal Effort: Rewarding Over Mimicking,1.0,0.5,1.5,Yes,Irrelevant,Relevant
+21,The computing continuum: From IoT to the cloud,0.5,0.5,1.0,No,Irrelevant,Irrelevant
+22,Nowhere to Go: Benchmarking Multirobot Collaboration in Target Trapping Environment,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+23,Multiagent approach for resource management in Smart Environments,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+24,Evaluation of the alternatives of introducing electric vehicles in developing countries using Type-2 neutrosophic numbers based RAFSI model,0.0,0.0,0.0,No,Irrelevant,Irrelevant
+25,A federated learning model with the whale optimization algorithm for renewable energy prediction,0.0,0.5,0.5,No,Irrelevant,Irrelevant
+26,"Transformative marketing in the new normal: A novel practice-scholarly integrative review of business-to-business marketing mix challenges, opportunities, and solutions",0.0,0.0,0.0,No,Irrelevant,Irrelevant
+27,A Normative Agent System to Prevent Cyberbullying,1.0,0.5,1.5,Yes,Irrelevant,Relevant
+28,"Evolution of artificial intelligence research in Technological Forecasting and Social Change: Research topics, trends, and future directions",0.5,0.5,1.0,No,Irrelevant,Irrelevant
+29,A Multiagent Federated Reinforcement Learning Approach for Plug-In Electric Vehicle Fleet Charging Coordination in a Residential Community,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+30,Tiny Multiagent DRL for Twins Migration in UAV Metaverses: A Multileader Multifollower Stackelberg Game Approach,1.0,1.0,2.0,Yes,Relevant,Relevant
+31,ColSLAM: A Versatile Collaborative SLAM System for Mobile Phones Using Point-Line Features and Map Caching,1.0,0.0,1.0,No,Irrelevant,Irrelevant
+32,Fostering consumer engagement with sustainability marketing using augmented reality (SMART): A climate change response,0.5,0.0,0.5,No,Irrelevant,Irrelevant
+33,Proposta de Agente autônomo utilizando as técnicas de mineração de processos em uma Arquitetura Virtual baseada em Sistemas Multiagentes,0.0,0.5,0.5,No,Irrelevant,Irrelevant
