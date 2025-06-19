@@ -1,0 +1,79 @@
+ID,Behavior_Mechanism
+1,Federated Multiagent Proximal Policy Optimization (F-MAPPO) with local differential privacy (LDP)
+2,Publish-subscribe model with message aggregation/dissemination; Time-triggered architecture using Simulink
+3,Data-driven modeling with real-time updates; Feedback loop for bidirectional data flow
+4,Fuzzy logic-based decision-making
+5,Proximal Policy Optimization (PPO) with hybrid Critic
+6,Uses Decentralized Partially Observable Markov Decision Problem (Dec-POMDP) model; Co-MARL algorithm with utility function to measure QoS demands; agents cooperate to optimize path selection; Segment Routing (SR) technology for path construction
+7,"Federated multi-agent deep reinforcement learning (FMADRL), double auction-based incentive model"
+8,"Pseudonym generation, distribution, and revocation using cross-chain technology and MADRL"
+9,Cross-metaverse framework with cross-chain technology; decentralized partially observable Markov decision process (Dec-POMDP) model; multiagent deep reinforcement learning (MADRL) for pseudonym generation; utility function and inventory theory for optimization
+10,"Task offloading as mining process, Mining Mechanism, Main Chain Confirmation Mechanism"
+11,Formulates joint optimization problem as time-varying mixed integer nonlinear programming problem; uses MADRL to learn action policy; builds reputation model for ESs; uses digital twin-based virtual system for training
+12,Improved artificial potential fields for repulsion; Alignment-guidance forces for dynamic alignment; Dynamic weightings for balancing forces
+13,Leverages generative AI for smart process planning and decision-making. Employs machine and deep learning algorithms for big data analysis. Utilizes simulation modeling and extended reality for immersive industrial operations. Integrates cyber-physical systems for real-time production logistics and resource coordination.
+14,Depth-based BEV feature extraction; Feature enhancement for overlapping areas; Intermediate fusion for collaborative perception
+15,"Consolidates DT definition based on foundational properties like representativeness, reflection, replication, entanglement, persistency, memorization, composability, accountability, augmentation, ownership, servitization, and predictability. Uses functional layering and architectural models for implementation."
+16,Discrete-event modeling for plant-environment interactions; Adaptive planning based on real-time data
+17,"The system uses behavior tree and decision tree algorithms. The behavior tree handles sequential and selector node operations for decision-making, while the decision tree classifies situations and guides resource allocation."
+18,Fully decentralized multiagent compound-action actor-critic (FDMA-CA2C) algorithm
+19,"The MET-MADDPG algorithm is used, combining metaverse concepts, imitation learning, and curriculum learning. It employs techniques such as comprehensive strategy to prevent Q value overestimation, large-scale exploration and imitation learning guidance, curriculum learning guidance, and classified experience replay to improve algorithm robustness and coordination capabilities."
+20,Hierarchical Multi-Agent Autonomous Clustering Decision (HMACD) algorithm combining GCN and k-means clustering
+21,"The MDOGF framework uses world large models for environment simulation, AGI technology for autonomous decision-making, Q* technology for multi-step reasoning, and model compression/acceleration techniques to improve computational efficiency. It also employs multi-view diffusion and multi-scale resolution enhancement for high-precision 3D modeling."
+22,Multi-Agent Split Reinforcement Learning (MSRL) with adaptive switching between client-side and server-side models
+23,"The method uses GCN to aggregate node features for clustering, considering building occlusion, node positions, task queues, and frequency relationships. HRL based on AC framework is employed for hierarchical decision-making, decomposing complex tasks into sub-tasks to reduce state and action space complexity."
+24,"Distributed Learning, MARL, Signaling Games, Symbolic AI"
+25,"The behavior mechanism uses Federated Learning with a multi-round approach. Local models on AGVs are trained on sensor data, and then aggregated at a cloud server to create a global model. The global model is used to update local models, improving prediction accuracy over multiple rounds."
+26,Multiagent Soft Actor-Critic with Graph Convolutional Networks (SAC-GCN)
+27,"Hierarchical reinforcement learning (HRL) with experience sharing. High-level agent manages task prioritization, low-level agents handle specific tasks. Experience sharing between low-level agents using weighted mutual experience sharing based on similarity metrics."
+28,Multi-Agent Hierarchical Deep Reinforcement Learning (MAHDRL)
+29,"The behavior mechanism uses DDQN with PER for learning. The agent selects queues to service based on estimated E2E latencies, aiming to minimize the maximum E2E latency. State includes queue information, and reward is based on transmitted and remaining packets' estimated delays."
+30,"QMARL-based scheduling, Lyapunov optimization, Avatar-popularity-aware control"
+31,"Simulation-based evaluation on Airsim with domain randomization, comparing R-MADDPG against baseline policies. Real-world experiments on physical multi-UAV systems measuring completion rates and timings."
+32,FoV-aware Multiagent Soft Actor-Critic (FA-MASAC) algorithm
+33,"The behavior mechanism uses DQL for adaptive decision-making, extended stigmergy for dynamic environmental interaction, and on/off-chain separation for efficient execution. Stigmergy updates are based on transaction success rate and Q-values."
+34,MAPPO-BD (Multi-Agent Proximal Policy Optimization with Beta Distribution)
+35,"The behavior mechanism uses a multi-agent system to model user behavior changes, with community regulation maintaining loyalty index through feedback from the index module."
+36,Personalized simulation aligned to Personal Coherent Extrapolated Volition (CEV)
+37,"The behavior mechanism uses the AAHC algorithm, a novel Multi-agent Deep Reinforcement Learning (MADRL) structure. It employs two asynchronous actors (for UL and DL) and a hybrid critic to handle sequential decision-making, with stage-specific and global rewards."
+38,"Hybrid continuous and discrete action spaces, POMDP"
+39,"The behavior mechanism uses the Heterogeneous Action Proximal Policy Optimization (HAPPO) algorithm, with three agents having distinct roles and reward functions, and a hybrid critic for personalized advantage calculations."
+40,"Binary pre-migration decisions, POMDP"
+41,"The behavior mechanism uses a Multi-Agent Deep Q-Network (MA-DQN) algorithm with a cooperation mechanism. It models the problem as a Dec-POMDP, where agents share rewards and cooperate to optimize paths for diversified services."
+42,"DM-ACO for node selection, MADRL-HCAU for caching decisions"
+43,"The behavior mechanism uses the MA-HyAR-TD3 algorithm, a hybrid action multi-agent reinforcement learning approach. It constructs a latent representation space for discrete-continuous hybrid actions and uses twin-delayed deep deterministic policy gradient for training."
+44,"Transformer-based user mobility prediction, relational graph learning"
+45,"Simulation experiments comparing CCM-MADRL with baseline algorithms (MADDPG, DDPG) using metrics like QoE utility, meta-distance, latency, and resource utilization."
+46,"Dempster-Shafer algorithm for ranking, dynamic reputation adjustment"
+47,M2ERL-UOA algorithm combines multi-objective multi-agent evolutionary reinforcement learning with a user-object-attention mechanism. It uses a prediction-driven evolutionary learning process and Nash equilibrium to generate Pareto-optimal solutions.
+48,Centralized training and decentralized execution with MADDPG; Goal-driven behavior trees; NLP command parsing
+49,"The behavior mechanism combines graph theory, game theory, and the IoT microblockchain framework. It uses the Fundamental Transitive Rule (FTR), the Seed of Truth, and the Fame Game to achieve scalable consensus."
+50,"Balanced tree optimization, dynamic re-keying protocols"
+51,"The behavior mechanism combines mycelium network growth simulation using the Monte Carlo method, a multi-agent system (MAS) for transactions, and an artificial immune system (AIS) for security and intrusion detection."
+52,"QMARL, Bin-Packing, Lyapunov Optimization"
+53,The behavior mechanism combines contract theory with a new variant of multi-agent reinforcement learning (MARL). It uses an iterative contract design to address multi-dimensional information asymmetry and incentivize truthful participation.
+54,"Reinforcement Learning, Ring Signatures"
+55,"The behavior mechanism combines a multileader multifollower Stackelberg game model with the Tiny MADRL algorithm, using pruning techniques to reduce model complexity and achieve optimal resource allocation."
+56,Static vs. Tracked Eye Gaze
+57,"The behavior mechanism uses the Cybonto ontology to model human psychological constructs and their relationships, combined with network science centrality algorithms to rank construct influences. It extends digital cognitive architectures to include noncognitive factors."
+58,"The behavior mechanism uses multi-agent modeling to simulate agent interactions under different parameters and applies an improved SEIR model with immune control strategy to simulate rumor spreading, considering network topological features like degree, path length, and density."
+59,"The behavior mechanism combines multi-agent simulation for modeling individual and group behaviors, system dynamics for analyzing feedback loops and nonlinear relationships, complex networks for representing structural connections, and cellular automata for simulating spatial-temporal evolutions. These methods are used to study information broadcasting，knowledge management, and other processes."
+60,"The behavior mechanism utilizes multi-agent deep reinforcement learning for avatar migration, weighted pattern mining algorithms, deformable separable networks for video detection, and surveys for human-centric metaverse analysis."
+61,"The behavior mechanism uses multiobjective evolutionary algorithms (NSGA-II) to optimize for low complexity and high fidelity. Rules and parameters for agents are evolved, with complexity measured by rule count, parameter count, and cyclomatic complexity. Fidelity is evaluated via a machine learning system trained on human judgments of behavior realism."
+62,"Multi-agent deep reinforcement learning (MADRL), Transformer-based MAPPO (TF-MAPPO)"
+63,"The behavior mechanism uses vectorial opinion representation, interpersonal influence scores, and asynchronous opinion updates. Influence network evolution is governed by connect/disconnect rates, with agents updating opinions based on neighborhood interactions and their stubbornness/flexibility."
+64,"Multi-agent reinforcement learning (MARL), Graph Neural Network (GNN)"
+65,"The behavior mechanism employs a multileader multifollower Stackelberg game where MRPs (leaders) set bandwidth prices, and MSPs (followers) decide bandwidth demand. Social effects and queueing theory are integrated into utility functions, with ADMM used for theoretical SE solution and MALPPO (multiagent DRL) for privacy-preserving learning."
+66,Collaborative offloading and service response using PMPD and Augmented Lagrange methods
+67,Multi-Agent System
+68,Other Techniques
+69,Game Theory
+70,Digital Twin
+71,Blockchain
+72,Blockchain
+73,Multi-Agent System
+74,Multi-Agent System
+75,Multi-Agent System
+76,Hybrid Algorithms
+77,Other Techniques
+78,Hybrid Algorithms

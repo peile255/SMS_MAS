@@ -1,0 +1,79 @@
+ID,Evaluation_Method
+1,Mean Opinion Score (MOS);Root Mean Square Error (RMSE);QoE model validation
+2,Case study with odometry and obstacle detection data; Qualitative analysis of augmented environment integration
+3,Case study using SIR epidemiological model; Qualitative framework validation
+4,SWARA-AROMAN
+5,"Comparison with baseline models (iterative RL, CTRL), metrics include total delay, retransmission percentage, energy consumption"
+6,"Simulation comparison with MT-OSPF; evaluation of reward values, average latency, packet drop rate, and throughput; utility function for QoS metric optimization"
+7,"Numerical simulations comparing FMADDPG with MADDPG, MADQN, and greedy algorithms"
+8,"Security analysis, consensus time comparison, social welfare evaluation"
+9,"Security analysis (anonymity, unlinkability, immutability, etc.); performance analysis of cross-chain pseudonym management (consensus time, transaction delay); performance analysis of pseudonym generation method (convergence, utility, etc.)"
+10,"Convergence analysis, time cost comparison, fairness evaluation"
+11,"Convergence evaluation under different learning rates and batch sizes; performance comparison with MADDPG, Random Offloading (RO), and Local-Only (LO) schemes; analysis of average reward, energy consumption, and delay under varying number of UDs, bandwidth, and weight coefficients"
+12,Simulation experiments; Live-user experiments
+13,"Literature review using evidence appraisal checklists and citation management software (e.g., Abstrackr, Colandr, Covidence). Analysis of existing technologies and their applications in industrial metaverse."
+14,"Quantitative evaluation (IoU, AUC); Ablation studies"
+15,"Literature survey and analysis of existing DT definitions, technologies, and applications. Identification of foundational properties and architectural models. Case studies and scenarios for evaluation."
+16,Case study on winter wheat; Simulation of growth scenarios
+17,"Simulation testing in various disaster scenarios (fire, earthquake, chemical/biological emergencies) to evaluate response time, decision accuracy, and resource allocation."
+18,Simulation
+19,"Simulation experiments comparing with existing algorithms (Ape-x-MADDPG, MATD3, MADDPG, RBF, BP, GA-Fuzzy-PID, etc.) to evaluate control performance in terms of OER, output voltage, stack temperature, and temperature difference."
+20,Simulation
+21,"Simulation experiments and comparative analysis, evaluating performance using metrics such as accuracy, precision, recall, F1-score, frame rate, latency, and processing efficiency."
+22,Simulation and numerical analysis
+23,"Numerical simulations and comparative analysis, evaluating performance by measuring accumulated queues of UAVs and ground nodes, and comparing results with and without environmental cognition."
+24,Simulation with MNIST and Fashion MNIST datasets
+25,"Numerical simulations and experiments on real data streams from AGVs, evaluating prediction performance using metrics such as Mean Squared Error (MSE), Mean Absolute Percentage Error (MAPE), and comparing results with traditional centralized approaches."
+26,Simulation with virtual city park metaverse scenario
+27,"Numerical simulations and case study in Gridlock, a Metaverse learning game. Evaluated using cumulative reward, steps taken to completion, and comparison with single-agent and other multiagent approaches."
+28,Numerical Simulations with RIS-assisted NR-U Network
+29,"Simulations on four network topologies comparing the RL-based scheduler with FIFO, RR, NAT-HA, and MED-HA. Metrics include maximum E2E latency, latency fairness index, and maximum latency fairness index."
+30,Simulation-based evaluation with system parameters and benchmarks
+31,"Experiments involve 2-UAV cooperative delivery tasks in simulated (Airsim) and real-world environments. Domain parameters (noise, flight height, distances) are randomized. Training uses 20,000 episodes with ADAM optimizer."
+32,Simulation-based evaluation with real-world datasets
+33,Simulations comparing conventional vs. extended stigmergy on gas usage and cumulative rewards. Evaluation of InSC framework against existing gas optimization methods.
+34,"Simulation-based comparison with MADDPG, MAPPO-ND, and PO-MAPPO-BD"
+35,Simulation experiments to verify model feasibility and animation demonstration; sensitivity analysis experiments to determine optimal community regulation intensity.
+36,Conceptual analysis; theoretical evaluation
+37,"Simulation experiments comparing AAHC with baselines (IteRL, CRL, Random Allocation) using metrics like global reward, total delay, re-transmission times, and uplink rate."
+38,"Numerical simulations, MSE, R2 score, MAE, MedAE"
+39,"Simulation experiments comparing HA models (HAPPO, HAA2C) with baselines (IDA, CTDE) using metrics like mAP, uplink delay, and battery consumption."
+40,"Numerical simulations, reward comparison, latency analysis"
+41,"Simulation experiments comparing MA-DQN with DQN, Multi-Type Open Shortest Path First (MT-OSPF), and Routing Information Protocol (RIP) using metrics like rewards, average packet delay, packet drop rate, and network throughput."
+42,"Numerical simulations, cache hit ratio, packet drop rate, content updating delay"
+43,"Simulation experiments comparing MA-HyAR-TD3 with baselines (MA-PA-DDPG, MA-PA-Delayed-DDPG, MA-PA-TD3, Random scheme) using metrics like average reward, EdgeVRQoE, pre-rendering success percentage, and resource utilization."
+44,"Overall QoI index, throughput satisfactory ratio, AoI satisfactory ratio, episodic AoI"
+45,"Simulated TN-NTN environment with 90 MUs, 3 MSPs, 20 subchannels per ABS; parameters include computation capacity [20,200] GHZ, meta-data size [10,200] MB, and transmission power settings."
+46,"Stability in presence of malicious recommenders, speed of degrading service recognition"
+47,"Simulation experiments comparing M2ERL-UOA with baseline algorithms (DCNSGA-III, PFG-MOEA, MOPSO, M2ERL) using metrics like Pareto front quality, system reward, decision time, and delay."
+48,Win rate tracking; Response latency; Comparative analysis with baseline methods
+49,"Simulation experiments and graph-based analysis to evaluate the feasibility and complexity of Proof of Existence (PoE) under various system conditions, including finite memory and dynamic node behavior."
+50,"Mathematical analysis, simulation of message length and computational efficiency"
+51,"Simulation experiments using OpenSimulator to model mycelium growth, nutrient exchange, and alarm transmission between plants. Metrics include chemical activity levels and transactor data flow."
+52,"Simulation, Performance Metrics"
+53,"Simulation experiments using the CARRADA dataset, with metrics including VSP revenue, IR and IC violation rates, and convergence analysis. Comparison with a Naive MA-PDDQL baseline."
+54,"Simulation, Performance Metrics"
+55,"Simulation experiments comparing Tiny MADRL with traditional PPO, greedy, and random algorithms, measuring average reward convergence, strategy evolution, and impact of parameters like bandwidth cost and upper price."
+56,"Quantitative Questionnaires, Eye Gaze Data"
+57,"Usability tests for manual analysis of hackers' behaviors using Cybonto, automatic analysis of behavioral cybersecurity research papers, and simulation of HDTs in different environments."
+58,"Simulation experiments on ideal social networks, BA scale-free network modeling, and prediction error analysis with 95.208% accuracy using Repast platform and dataset analysis."
+59,"The evaluation method adopts a systematic review of relevant literature, analyzing the application status and characteristics of different simulation methods in library and information science, and discussing their application prospects in combination with new technologies."
+60,"Evaluation methods include reviewer scoring for best paper selection, algorithm efficiency analysis, and survey-based technology overviews."
+61,"Empirical data collection in three problem domains, using machine learning systems trained on human ratings for fidelity. Pareto-optimal frontiers analysis for complexity-fidelity tradeoffs, hypervolume calculation for solution set evaluation."
+62,Numerical simulation with latency and convergence metrics
+63,"Monte Carlo simulations with 100 runs per configuration, analyzing consensus rate, influence network connectedness, and number of opinion clusters. Machine learning is not used; instead, empirical data from simulations are analyzed."
+64,Numerical simulation with throughput and latency metrics
+65,"Simulation-based evaluation comparing MALPPO with baselines (MAPPO, MAA2C, MADQN, ADMM-SE, random strategies) using metrics like reward convergence, utility, and social welfare. Monte Carlo simulations with varying parameters (number of MSPs/MRPs, cost coefficients, social coefficients)."
+66,Simulation-based performance evaluation
+67,Quantitative Analysis
+68,Quantitative Analysis
+69,Quantitative Analysis
+70,Quantitative Analysis
+71,Quantitative Analysis
+72,Qualitative Analysis
+73,Quantitative Analysis
+74,Quantitative Analysis
+75,Quantitative Analysis
+76,Quantitative Analysis
+77,Quantitative Analysis
+78,Case Analysis

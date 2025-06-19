@@ -1,0 +1,79 @@
+ID,Research_Gap
+1,Existing ABR methods lack privacy protection and multi-user coordination
+2,Existing works focus on single-environment interactions or human-centric digital twins
+3,Lack of generalized framework for DTs with DDABMS; Existing works are domain-specific
+4,"Lack of real-world validation, Sensitivity to input parameters"
+5,Existing works do not consider asymmetric data sizes or asynchronous multi-agent interactions in Metaverse scenarios
+6,Traditional single metric-based routing algorithms cannot meet diversified QoS requirements; existing multi-objective routing methods do not consider differentiated metaverse service requirements; lack of cooperative path selection for diversified services
+7,Previous studies lacked optimal incentive strategies and did not consider emergency scenarios
+8,Previous schemes lack efficiency and robustness in large-scale pseudonym management
+9,Existing pseudonym management methods insufficient for vehicular edge metaverses; lack of efficient cross-domain pseudonym distribution; absence of adaptive pseudonym generation strategy for dynamic demands
+10,Existing schemes lack decentralized fairness and adaptability to dynamic environments
+11,Existing solutions lack cooperation among ESs and self-adaptive capabilities; traditional optimization methods require complete network information; limited use of reputation models and digital twin technology in computation offloading
+12,Existing methods focus on obstacle avoidance without considering relative positional alignment between users in virtual and physical environments.
+13,"Lack of comprehensive integration of cognitive digital twins, IoRT, and generative AI in industrial metaverse. Need for improved cooperative multi-agent controls and real-time analytics in smart factories."
+14,"Existing methods focus on single-agent perception, lacking collaborative solutions for crowded scenes."
+15,"Lack of standardized DT definitions and architectures, limited interoperability, and challenges in scaling DT systems to large-scale applications."
+16,"Existing digital twins rely heavily on historical data, lacking adaptive capabilities for real-time changes."
+17,Limited integration of social-psychological factors in crowd simulation; need for more real-world data to enhance decision tree accuracy.
+18,Existing works optimize resource allocation and transaction throughput separately
+19,"Existing control algorithms lack effective coordination of multiple variables and consideration of mutual coupling effects, and traditional reinforcement learning algorithms have limitations in robustness and exploration capabilities for PEMFC systems."
+20,Existing works optimize resource allocation and interference mitigation separately
+21,"Existing methods lack efficient multi-dimensional optimization frameworks for enhancing computational performance of generative AI large models in metaverse applications, and there is a gap in integrating autonomous decision-making with complex environment simulation."
+22,Existing methods lack adaptability to real-time changes and efficient resource utilization
+23,"Existing methods lack efficient environmental cognition-driven hierarchical decision-making frameworks for air-ground collaborative communication in complex urban environments, and conventional RL methods struggle with multi-dimensional decision-making."
+24,"Lack of interoperability in heterogeneous SMs, High communication overhead"
+25,"Existing methods lack effective use of distributed learning for AGV failure prediction, and traditional centralized approaches struggle with data privacy and communication overhead in complex manufacturing environments."
+26,"The research gap is that existing studies on edge resource allocation for the metaverse either lack consideration of human-centric factors affecting Quality of Experience (QoE) or fail to model the dynamic interactions between multiple users in a collaborative environment. Most prior works focus on single-agent or non-cooperative frameworks, ignoring the complex interdependencies among users and the need for adaptive resource allocation in highly dynamic metaverse scenarios. Additionally, there is a shortage of methods that effectively balance QoE optimization with fair resource distribution, especially in environments with varying network conditions and user demands. The integration of graph-based models to capture spatial-temporal relationships between users in metaverse networks has also been underexplored."
+27,"Lack of technical frameworks and methodologies for meaningful Metaverse learning, especially in designing intelligent NPCs and addressing computational intensity and training time in RL."
+28,"Lack of real-world deployment validation, Limited scalability testing"
+29,Existing studies focus on deadline achievement rather than E2E latency fairness. There is a gap in using RL to minimize maximum E2E latency and improve fairness in dynamic network environments.
+30,"First to differentiate AoI into physical and virtual AoI, First to utilize QMARL for metaverse data gathering"
+31,"Most multi-agent reinforcement learning (MARL) studies are confined to simulation environments, lacking real-world validation. Existing sim2real transfer methods fail to adequately address nonstationary Markov game models and memory-based policy design, thus limiting their adaptability to dynamic and uncertain real-world systems."
+32,Neglect of diverse QoE requirements in existing QoE-driven strategies
+33,Existing smart contracts lack adaptability and self-awareness. There is a gap in integrating human intelligence with AI for collective decision-making in the Metaverse.
+34,Existing hierarchical frameworks often neglect dynamic queue management and efficient UAV-HAPS coordination
+35,Limited research on micro-social behaviors of groups in metaverse communities and the impact of user stickiness on community loyalty.
+36,Value merger deemed unsolvable; proposed ISUs as workaround
+37,"Limited research on joint optimization of computation offloading, channel assignment, and power allocation in asynchronous UL-DL scenarios for Metaverse digital twinning."
+38,Existing works did not address heterogeneous RSU deployment and the impact of vehicle mobility on avatar migration.
+39,"Limited research on joint optimization of MMBS allocation, resolution, and power for adversarial detection in dynamic Metaverse environments with mobile AR vehicles."
+40,Existing works did not integrate blockchain for secure data management or address dynamic edge server loads effectively.
+41,"Traditional routing strategies neglect service diversity and resource constraints, and existing methods often use unified paths or single metrics, failing to address diversified QoS needs."
+42,Existing works lack integration of cross-layer caching and asynchronous updating for NTNs.
+43,Existing methods lack efficient handling of discrete-continuous hybrid actions and comprehensive QoE models integrating delay and visual quality for multi-user Metaverse scenarios.
+44,Existing approaches seldom consider suitable collaborative control mechanism among UAVs and accurate prediction of the spatial-temporal user distribution
+45,"Limited research on hierarchical, multi-domain resource allocation and MSP selection for TN-NTN integrated Metaverse services with dynamic environments."
+46,Existing systems lack dynamic assessment of both recommenders and service providers
+47,Existing methods lack efficient handling of multi-objective optimization and dynamic resource allocation for Metaverse services with diverse user preferences and real-time requirements.
+48,Lack of real-world military personnel validation; Limited cross-platform generalization
+49,"Existing blockchain architectures overlook the need for lightweight, scalable consensus mechanisms suitable for finite-capacity IoT nodes, hindering fully distributed operation in IoT and metaverse environments."
+50,Lack of open-source TGDH implementations for distributed systems
+51,"Previous studies lack integration of AIS and MAS for IoT security in smart farming, and few consider virtualized networks for sensor communication and reconfiguration."
+52,First use of QMARL for metaverse spatial scheduling
+53,"Existing works lack solutions for multi-dimensional contract problems in Metaverse ecosystems, and few use MARL to address information asymmetry in incentive mechanisms."
+54,First integration of MARL and RSS for oracle security
+55,"Existing works lack efficient UT migration solutions combining Stackelberg games with tiny DRL and pruning techniques, and few consider metaverse immersion metrics in utility functions."
+56,Mediation effect of uncanniness not significant
+57,"Current HDTs lack comprehensive cognitive architectures for cybersecurity simulations, and existing cybersecurity ontologies are fragmented with weak ontological commitments."
+58,"Limited literature on metaverse-media integration, lack of comprehensive models for information dissemination dynamics, and need for more real-world data validation."
+59,"The research gap lies in the insufficient depth of current simulations, lack of comprehensive modeling for complex phenomena, and limited application scope of simulation methods in library and information science."
+60,"Research gaps involve enhancing real-time performance of deep learning in WoT, improving Web 3.0 scalability, and developing comprehensive human-centric metaverse frameworks."
+61,"Limited understanding of the relationship between model complexity and fidelity in multiagent systems, lack of automated methods for fidelity evaluation based on human perception, and need for common frameworks across diverse scenarios."
+62,Existing works did not consider service consistency in UAV-assisted vehicular networks
+63,Traditional bounded-confidence models lack consideration of agent heterogeneity and time-varying influence networks. There is a gap in understanding how familiarity neighborhoods and agent flexibility/stubbornness affect opinion dynamics.
+64,Existing works overlook social patterns in clustering and lack adaptability to VANET dynamics
+65,"Existing works lack integration of social effects and privacy-preserving mechanisms in VT migration. Most studies ignore multiagent interactions and dynamic network evolution, failing to address real-world constraints like RSU coverage and moving vehicles."
+66,Lack of unified framework for integrating 3D reconstruction into PSM system
+67,Models and Algorithms
+68,Dynamic Adaptability
+69,Security and Privacy
+70,Validation and Deployment
+71,Validation and Deployment
+72,System Design
+73,Technology Integration
+74,Validation and Deployment
+75,Technology Integration
+76,Scenario Scalability
+77,Technology Integration
+78,Multi-Agent Interaction

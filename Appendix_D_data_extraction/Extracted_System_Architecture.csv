@@ -1,0 +1,79 @@
+ID,System_Architecture
+1,"Three-layer architecture: thing layer (user devices), edge layer (edge servers), cloud layer (data center)"
+2,"Three-layer ROS architecture: driver layer (hardware interfacing), behavior layer (message processing), task layer (control logic)"
+3,"Three-component framework: Data Pipeline, Model Development, Analysis"
+4,Blockchain-based
+5,Asynchronous multi-agent system with hybrid reward architecture
+6,"Network modeled as graph G(V, E) with four functional areas (education, residential, commercial, industrial); edge servers deployed in each area; routers connected via fiber links"
+7,DT-driven HAPS-assisted IoV network with consortium blockchain
+8,"Hierarchical cross-metaverse architecture with main chain, relay chain, and subchains"
+9,"Hierarchical architecture with global metaverse and local metaverses; cross-chain system including main chain, relay chain, and subchains; edge servers and local metaverse managers (LMMs) in edge layer; trusted authority (TA) in cloud layer"
+10,"Two-layered architecture with Computing Layer and Bridge Layer, hybrid blockchain (center chain and minor chains)"
+11,System consists of digital twin network and physical network; digital twin network implemented by open-source platforms; physical network with edge servers (ESs) and user devices (UDs)
+12,Dynamic alignment algorithm with improved artificial potential fields and clustering methods
+13,"System integrates cognitive digital twin, Internet of Robotic Things (IoRT), multi-sensory extended reality, simulation modeling technologies, and generative AI with cyber-physical manufacturing systems. Features cloud, fog, and edge computing layers, with networked immersive environments and digital twin smart factories."
+14,Depth-based BEV network with feature enhancement module and intermediate fusion
+15,"System integrates physical objects with their software counterparts (logical objects). Features layers for perception, communication, resource orchestration, object management, data processing, simulation, and applications. Leverages cloud, edge, and fog computing for distributed processing and storage."
+16,Multi-agent system with ontology-based knowledge base and discrete-event modeling
+17,"The system architecture includes a behavior agent for data collection and environmental monitoring, a behavior tree agent for decision-making, and an evaluation framework. It utilizes layers for perception, cognition, and physical interaction, with UML and system architecture diagrams for visualization."
+18,"Three layers: physical entity layer, DT layer, and blockchain layer"
+19,"The system architecture includes a PEMFC model with gas supply and thermal management systems, and a MET-MADDPG algorithm framework. The algorithm uses different metaverses for pre-learning, combining imitation learning and curriculum learning, with four agents (hydrogen controller, air controller, water pump controller, radiator controller) for coordinated control."
+20,"Three-layer hierarchical structure: UAV and user cluster association, UAV trajectory planning, and UE communication decision-making"
+21,"The system architecture includes the Multi-Dimensional Optimization Generation Framework (MDOGF), which combines world large models, AGI technology, Q* technology, efficient model compression and acceleration, and multi-view diffusion with multi-scale resolution enhancement. It also integrates GIS data and physics engines."
+22,Multi-agent split DRL framework with spatio-temporal trajectory generation
+23,"The system architecture includes three layers: ground node communication decision-making layer, UAV trajectory planning layer, and cluster association decision-making layer. It utilizes GCN for environmental cognition and HRL based on AC framework for hierarchical decision-making."
+24,"Semantic Multiverse Communication (SMC) with Semantic Encoder, Generator, and Knowledge Base"
+25,"The system architecture includes edge IoT devices on AGVs for data collection, an OPC UA Server for data exposure, and a cloud environment with a Cloud Federated Learning module for global model aggregation. It also involves Edge Data Acquisition and Edge Federated Learning modules."
+26,Thing-edge-cloud collaborative architecture with SAC-GCN
+27,"The system architecture is based on the ACP (Artificial societies, Computational experiments, and Parallel execution) framework, including a high-level agent for task prioritization and multiple low-level agents for specific subtasks, with an experience sharing mechanism between agents."
+28,"Hierarchical SDN Architecture with Cloud, Edge, and Terminal Layers"
+29,"The system architecture includes a single-agent (SARL) and multi-agent (MARL) environment. SARL uses a controller to manage nodes, while MARL has each node as an agent. The RL model employs DDQN with PER, and the state and reward are based on estimated E2E latencies."
+30,"Three-stage architecture (QMARL-based scheduler, synchronization-centric meta-space control, dynamic caching strategy)"
+31,"UAVs act as agents in both simulated and physical environments, collaborating to deliver goods. Each UAV functions as an autonomous agent with private observations and shared rewards in a cooperative task."
+32,Multiagent cooperative Markov decision process (MDP) with FoV-aware operation
+33,"The system architecture includes the HAIB-Metaverse with layers: Interaction Layer, Human-in-the-Loop/AI Interactive Layer, and Smart Decision Layer. It integrates RL, extended stigmergy, and on/off-chain methodology."
+34,"Hierarchical multi-tier computing (IoTDs, UAVs, HAPS)"
+35,"The system architecture includes the AIR (Agent Index Regulation) model with four modules: environment, agent, index, and regulation. The model simulates user behavior and community loyalty changes."
+36,Individual Simulated Universes (ISUs) running on highly intelligent AI platforms
+37,"The system architecture includes an asynchronous joint UL-DL scenario with two agents: UL Agent (Agent 1) for computation offloading and channel assignment, and DL Agent (Agent 2) for power allocation. It utilizes the Asynchronous Actors Hybrid Critic (AAHC) algorithm with a hybrid critic network."
+38,Decentralized Multiagent System
+39,"The system architecture includes AR vehicles capturing physical world scenes and uploading them to MMBSs. It features three RL agents: Agent1 for MMBS allocation, Agent2 for resolution selection, and Agent3 for power allocation, using the Heterogeneous Action (HA) algorithm."
+40,Decentralized Multiagent System
+41,"The system architecture is modeled as a wireless mesh network (WMN) represented by an undirected graph \(G(V, E)\), with edge servers near routers. It uses a Decentralized Partially Observable MDP (Dec-POMDP) framework."
+42,Hierarchical Multi-Layer System
+43,"The system architecture is a three-layer cloud-edge-end collaborative Metaverse network, including a central Nebula server, edge servers (Planets), and user terminals. It uses a Decentralized Partially Observable Markov Decision Process (Dec-POMDP) framework."
+44,Decentralized Partially Observable Markov Decision Process (Dec-POMDP)
+45,"Client agents represent MUs, deciding MSP selection and resource requests; master agents represent MSPs and aerial platforms, allocating resources and optimizing service delivery."
+46,Decentralized Trust Network
+47,"System architecture includes a base station (BS), Metaverse users (MUs), and virtual objects. It uses a wireless transmission model with Ultra-Reliable Low-Latency Communications (URLLC) and a user-object-attention mechanism for rendering capacity allocation."
+48,"Modular system with Cesium timeline visualization, UE5 rendering pipeline, 3DGS rendering engine, Open-Sora 1.0 object-driven interaction, NLP multimodal input, and MADDPG-based agent reasoning"
+49,System architecture includes a multiagent IoT ecosystem modeled as an evolving directed multigraph of transacting nodes. It uses the IoT microblockchain framework as an atomic consistency tier.
+50,Decentralized Tree-based Group Diffie-Hellman (TGDH)
+51,"The system architecture includes a metaverse-based framework with IoT sensor networks and virtualized mycelium networks. It uses OpenSimulator for simulation, with real-world sensors connected to a virtual environment through web services."
+52,Hybrid Quantum-Classical
+53,The system architecture consists of a two-layer Metaverse ecosystem. The upstream layer involves sensing IoT devices collecting data and selling semantic information to the VSP. The downstream layer involves the VSP rendering digital twins and delivering them to Metaverse users.
+54,Decentralized Oracle Network
+55,"The system architecture consists of UAVs, ground base stations (RSUs), and UAV metaverse users (UMUs). UTs are deployed on RSUs, and the system facilitates UT migration between RSUs to ensure seamless services for UMUs."
+56,Dyadic VR Interaction
+57,"The system architecture includes the Metaverse with interconnected Digital Twin (DT) networks, Human Digital Twins (HDTs), and nonhuman DTs representing various components like information systems. It features three environments: internal, in-group, and societal, following Bronfenbrenner's Ecological System Theory."
+58,"The system architecture integrates metaverse and blockchain technologies, combining multi-agent modeling and SEIR dynamic model to analyze information dissemination networks. It includes social media networks, government-media-netizen interaction systems, and uses topological characteristics like degree distribution and clustering coefficients."
+59,"The system architecture involves the integration of multi-agent simulation, system dynamics, complex networks, and cellular automata methods to model complex systems in library and information science. It includes various research fields such as information dissemination, knowledge management, scientific evaluation, and competitive intelligence, and is supported by big data and metaverse technologies."
+60,"The system architecture involves integrating deep learning with the Web of Things, covering areas like vehicular metaverses, Web 3.0, pattern mining, video object detection, and human-centric metaverse."
+61,"The system architecture involves multiagent systems with three problem domains: conversational group dynamics, sheepdog herding behaviors, and traffic dynamics. It uses a multiobjective evolutionary framework with machine learning trained on human aesthetic judgment to balance model complexity and fidelity."
+62,Multi-agent system with edge servers (RSUs/UAVs) and vehicles
+63,"The system architecture includes a directed and time-varying influence network where agents (nodes) interact based on familiarity neighborhoods. Agents are categorized into stubborn or flexible types, forming conservative or liberal groups with opinion distributions modeled by truncated Gaussian distributions."
+64,Hierarchical architecture with GNN-based clustering and MARL-based scheduling
+65,"The system architecture comprises vehicular metaverse users (VMUs), vehicular twins (VTs), and roadside units (RSUs) as metaverse service providers (MSPs) and resource providers (MRPs). It features a directed, time-varying influence network for VT migration between RSUs, supported by queueing theory for delay modeling and social-awareness for utility enhancement."
+66,Bi-model PSM system with queue and service models
+67,Digital Twin
+68,Multi-Agent System
+69,Metaverse Multi-Layer
+70,Digital Twin
+71,Communication Network
+72,Blockchain Integration
+73,Edge-Cloud Collaboration
+74,Edge-Cloud Collaboration
+75,Communication Network
+76,Edge-Cloud Collaboration
+77,Digital Twin
+78,Blockchain Integration

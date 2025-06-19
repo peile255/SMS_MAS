@@ -1,0 +1,79 @@
+ID,Agent_Role
+1,Local agents on XR devices adjust bit rates; global agent on edge server coordinates learning
+2,ROS nodes as agents for data collection and action execution in different environments
+3,"Agents represent entities (e.g., individuals in SIR model) with autonomous decision-making"
+4,Decision Maker
+5,UL Agent: Optimizes computation offloading and channel assignment; DL Agent: Optimizes power allocation
+6,"Multi-agent system where each agent corresponds to a service type, cooperating to select optimal paths"
+7,"DTV (Digital Twin of Vehicle), DTR (Digital Twin of RSU), DTH (Digital Twin of HAPS)"
+8,"Vehicle Twins (VTs), Vehicle Metaverse Users (VMUs), Local Metaverse Managers (LMMs)"
+9,Local metaverse managers (LMMs) as agents; vehicle twins (VTs) and vehicular metaverse users (VMUs) as entities requiring pseudonyms
+10,"Networked Computation Points (NCPs), Bridge Nodes"
+11,Edge servers (ESs) as agents; user devices (UDs) as entities generating tasks
+12,Users as chasers or targets in a chasing game scenario
+13,"Robotic devices, sensors, and AI systems act as agents in industrial metaverse environments, enabling autonomous decision-making, task scheduling, and environment monitoring."
+14,Agents as avatars equipped with multi-view cameras for data collection
+15,"Logical objects (digital twins) act as software counterparts of physical objects, enabling representation, monitoring, and control. Multiagent systems and virtualization technologies support distributed management and interaction of digital twins."
+16,"Agents representing plant parts (root, stem, leaves), environmental factors (sun, soil), and pests"
+17,"Behavior agents monitor the environment and collect data, while decision tree agents analyze data and make response decisions. Intelligent agents coordinate these functions to guide humans to safety."
+18,Base stations (BSs) as independent agents
+19,"Hydrogen controller, air controller, water pump controller, and radiator controller act as agents to coordinate control of hydrogen flow, air flow, stack temperature, and temperature difference, with the goal of improving system stability and efficiency."
+20,"UAVs as aerial relays, UEs as communication agents"
+21,"Agents in the metaverse, such as virtual guides and teachers, perform autonomous decision-making and interaction based on user needs and environmental changes, with roles including environmental perception, path planning, and service provision."
+22,Vehicles and RSUs as decentralized agents
+23,"UAVs and ground nodes act as agents. UAVs provide dynamic network deployment and task queue offloading, while ground nodes generate and transmit queues. Clusters of ground nodes and UAVs collaborate for efficient communication."
+24,Human and Machine Agents
+25,"AGVs act as agents that collect sensor data and train local prediction models. The cloud server aggregates these models to form a global model, which is then shared back with AGVs to update their local models."
+26,Human and Machine Agents
+27,"High-level agent prioritizes learning tasks, low-level agents provide task-specific assistance. NPCs include skilled learner, apprentice learner, and tutor NPCs to interact with learners and personalize learning experiences."
+28,"Terminal Users, Edge Servers, Cloud Servers"
+29,"In SARL, the controller acts as the agent, receiving state information from nodes and sending control messages. In MARL, each node is an agent, making independent decisions based on local queue information."
+30,"Service Providers (SPs), Observers, Metaverse Server"
+31,"The behavior mechanism uses nonstationary Markov games to model dynamic environments, solved by recurrent MARL (R-MADDPG) with domain randomization. Perception-control modularization divides tasks into CNN-based target detection and MARL-based control, enhancing generalization."
+32,Video Categories (Agents)
+33,"Agents include RL agents, extended stigmergic agents, and human users. RL agents optimize actions using DQL, extended stigmergic agents facilitate indirect communication, and humans provide input through the interactive layer."
+34,IoTD agents: optimize offloading ratio; UAV agents: optimize trajectories and resource allocation; HAPS agent: optimize resource allocation
+35,"Agents represent users in the metaverse community, exhibiting behavior preferences and area changes based on user stickiness and environmental influences."
+36,Superintelligent AI agents act as environment controllers aligned with personal user values
+37,Agent 1 (UL Agent) optimizes computation offloading and channel assignment for XR users. Agent 2 (DL Agent) optimizes downlink power allocation for users assigned a channel in the UL stage.
+38,"Intelligent Vehicles, RSUs"
+39,"Agent1 handles discrete MMBS allocation, Agent2 selects continuous resolution values, and Agent3 chooses continuous uplink power outputs, all working to optimize mAP, latency, and battery consumption."
+40,"Intelligent Vehicles, RSUs"
+41,"Agents are responsible for end-to-end (E2E) path selection for specific services, each making routing decisions based on neighbor router states."
+42,"LEO Satellites, UAVs"
+43,"Users act as bidders leasing rendering resources, and Planets act as auctioneers pricing and allocating resources. Users decide which Planet to access and resource quantities, while Planets set resource prices."
+44,UAVs as mobile aerial BSs
+45,"Combinatorial Client-Master Multiagent Deep Reinforcement Learning (CCM-MADRL) framework, integrating combinatorial optimization with MADRL for adaptive resource allocation and QoE maximization."
+46,"Service Clients (SCs) as recommenders, Service Providers (SPs) as service offerers"
+47,"Agents represent MUs, making decisions on uplink power, downlink power demand, and rendering capacity. They interact with the environment to optimize Meta-Immersion and energy consumption."
+48,Red and Blue team tactical agents; Human participant as interactive decision-maker
+49,"Nodes act as autonomous entities (atoms) participating in transactions, with roles ranging from active nodes initiating transactions to passive nodes participating in transactions initiated by others."
+50,Group members as equal contributors to key generation
+51,"Sensors act as sensing agents, user agents manage the system, and action agents execute responses. Transactor nodes facilitate data exchange between plant roots and mycelium."
+52,"Observers, APs, Users"
+53,"Sensing IoT devices act as data providers, the VSP acts as an intermediary for data purchase and digital twin delivery, and Metaverse users are consumers of digital twin services."
+54,"Oracles, MARL Agents"
+55,"RSUs act as leaders setting bandwidth prices, UAVs act as followers deciding bandwidth purchase for UT migration, and UMUs are service consumers."
+56,"Avatars, Participants"
+57,"HDTs represent human actors (malicious hackers, defenders, system users), while nonhuman DTs model technical components. HDTs interact with other DTs and environments to simulate cyber behaviors."
+58,"Agents include netizens as information disseminators/receivers, government as regulators, and online media as intermediaries, interacting within social network structures."
+59,"Agents in the system can represent various entities such as individuals, organizations, and information systems in the library and information science domain, interacting and influencing each other within the modeled environments."
+60,"Agents include avatars in vehicular metaverses, users in Web 3.0, and entities involved in pattern mining and object detection."
+61,"Agents include nonplayer characters (NPCs) in virtual environments, such as conversational group members, sheep, a herding dog, and vehicles, each following rule-based behaviors."
+62,Vehicles act as agents making migration decisions
+63,"Agents represent individuals in virtual social groups, with roles defined by their opinion flexibility/stubbornness. They interact via directed edges in the influence network, forming familiarity neighborhoods."
+64,Vehicles as agents in multicast groups; RSUs/BSes as agents for packet scheduling
+65,"VMUs interact with VTs, while RSUs act as MSPs (source RSUs) and MRPs (destination RSUs). MSPs purchase bandwidth from MRPs for VT migration, with MRPs setting prices and MSPs determining demand based on migration needs and social effects."
+66,Cybertwins act as autonomous intermediary agents bridging ULVS requirements and UNI resource allocations
+67,Communication and Computing
+68,Terminals and Devices
+69,Decision and Management
+70,Terminals and Devices
+71,Terminals and Devices
+72,Multi-Agent System
+73,Terminals and Devices
+74,Terminals and Devices
+75,Terminals and Devices
+76,Terminals and Devices
+77,Multi-Agent System
+78,Virtual and Digital

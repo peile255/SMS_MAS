@@ -1,0 +1,79 @@
+ID,Challenge_Type
+1,Privacy;Latency;Bandwidth Optimization;Multi-user Coordination
+2,Collision detection; Dynamics alignment between real and virtual robots; Multi-environment integration
+3,Integration of DTs with DDABMS; Data quality and interoperability; Model scalability
+4,"Complexity of urban transportation networks, Data imprecision"
+5,"Asynchronous MDP, high-dimensional objectives, NP-hard optimization"
+6,Diversified QoS requirements for metaverse services; E2E customized transmission strategies; efficient network resource orchestration; avoiding network congestion
+7,"Dynamic network topology, mobility of vehicles, resource constraints"
+8,"Privacy leakage, management overhead, lack of generalized privacy metric"
+9,Large-scale pseudonym management overhead; centralized storage vulnerability; lack of generalized privacy metric; dynamic pseudonym demand adaptation
+10,"Centralized task offloading inefficiency, lack of fair incentives, dynamic network complexity"
+11,Heterogeneous edge servers and single-destination offloading limiting network performance; centralized controller impractical for distributed cyber networks; lack of self-adaptive capabilities in time-varying wireless networks
+12,Multi-user collaboration; Dynamic obstacle avoidance; Alignment in VR
+13,"Heterogeneous integration of technologies, real-time data processing, ensuring collision-free motion planning, and optimizing resource allocation in dynamic industrial environments."
+14,Occlusion in crowded scenes; Data imbalance; Overfitting in BEV space
+15,"Complexity in modeling physical world, managing large systems, ensuring interoperability, and addressing security and privacy concerns."
+16,Dynamic environmental factors; Integration of expert knowledge with sensor data
+17,"Modeling dynamic crowd behavior, adapting to changing disaster conditions, and ensuring real-time decision-making accuracy."
+18,"Data transmission, computation, security"
+19,"Coordinating multiple operating variables in PEMFC systems, addressing mutual coupling effects, and improving algorithm robustness and adaptability in dynamic environments."
+20,"Learning and decision-making in complex multi-agent scenarios, interference mitigation"
+21,"High computational complexity of generative AI large models, real-time processing requirements, and ensuring seamless interaction and decision-making in dynamic metaverse environments."
+22,"Dynamic network conditions, computational demands, privacy concerns"
+23,"Queue transmission between heterogeneous nodes, understanding complex dynamic environments from high-level cognition, and addressing multi-task and multi-granularity decision-making complexities."
+24,"Heterogeneous SMs, Latency, Reliability, Multi-modal Data"
+25,"Managing distributed knowledge in AGV fleets, improving anomaly detection through accurate signal prediction, and optimizing communication and data exchange between AGVs."
+26,"Resource allocation fairness, Latency, Dynamic user demands"
+27,"Addressing state explosion and convergence time in RL for Metaverse learning, creating effective 'brain' for decision-making in Metaverse, and personalizing learning experiences through NPC interactions."
+28,"Bandwidth Limitations, Latency Requirements, Human Experience"
+29,"Ensuring fair distribution of E2E latency in networks, especially for services like metaverse, and addressing large state and action spaces in RL for network scheduling."
+30,"High-dimensional action spaces, Scalability in NISQ era, Stability in storage occupancy"
+31,"Most MARL studies lack real-world validation. Existing sim2real transfer methods ignore nonstationary Markov games and memory-based policies, limiting adaptability to dynamic systems."
+32,"High-dimensional decision space, Dynamic user requests, Diverse QoE requirements"
+33,"Adaptability, scalability, and efficiency in decentralized Metaverse systems. Bridging human-AI interaction gaps in dynamic environments."
+34,"Energy minimization, latency constraints, resource allocation"
+35,Maintaining healthy long-term development of metaverse communities and establishing the link between user stickiness and community loyalty.
+36,Multi-agent value alignment; value aggregation
+37,"Ensuring reliability and low latency in asynchronous UL-DL transmissions for real-time digital twinning in Metaverse, addressing asymmetric data sizes and interference."
+38,"Resource-intensive tasks, dynamic RSU workload, nonuniform RSU deployment"
+39,"Real-time detection of adversarial patches in AR-assisted driving, optimizing resource allocation for low latency and energy efficiency, and handling mobile edge computing inefficiencies."
+40,"Task pre-migration decisions, edge server overload"
+41,"Meeting diversified and stringent QoS requirements for multiple metrics (latency, packet drop rate, throughput) in 6G metaverse services and optimizing resource utilization."
+42,"Heterogeneous caching hardware, dynamic network environments, content duplication"
+43,"Balancing visual quality and rendering delay, handling distributed discrete-continuous hybrid decision-making, and adapting to dynamic Metaverse environments."
+44,"Balancing UAV movements for data collection, saving battery power, maintaining QoI for all users"
+45,"Dynamic resource allocation in aerial MEC due to platform mobility, high resource demands for Metaverse services, and real-time data processing requirements."
+46,"Handling malicious recommenders, early detection of degrading services"
+47,"Balancing QoE and energy consumption in Metaverse services with limited device resources, adapting to dynamic user preferences and interference noise."
+48,High-fidelity modeling complexity; Latency in multimodal fusion; Realistic military scenario simulation
+49,"Achieving scalable consensus in IoT ecosystems with finite-capacity nodes, ensuring robustness against AI-fueled attacks, and adapting to dynamic user preferences and node diversity."
+50,"Handling dynamic group membership, minimizing communication overhead"
+51,"Ensuring robust security and efficient data distribution in smart farm IoT networks, mimicking natural mycelium behavior for scalable communication, and integrating AIS and MAS for adaptive threat response."
+52,"Limited qubits, High-dimensional action spaces"
+53,"The challenge type is Information Asymmetry in Multi-Dimensional Contract Design for Metaverse Ecosystems. It involves addressing adverse selection problems arising from unknown private information (e.g., semantic extraction ability, transmission rate, refresh rate of IoT devices; valuation preferences of Metaverse users) and designing incentive mechanisms to ensure truth-telling while maximizing the virtual service provider's (VSP) profit with minimal Individual Rationality (IR) and Incentive Compatibility (IC) violations."
+54,"Oracle tampering, Data integrity"
+55,"Dynamic UT migration due to UAV mobility and limited RSU coverage, optimizing bandwidth allocation and pricing under information asymmetry, and ensuring immersive experiences for UMUs."
+56,"Limited realism in avatar behavior, Gender bias"
+57,"Developing robust HDTs for cybersecurity simulations, addressing underdeveloped cognitive architectures, and creating a reference ontology for behavioral cybersecurity knowledge."
+58,"Ensuring data privacy/security in metaverse, addressing computational resource demands, and balancing virtual-real integration in communication."
+59,"The challenges include the high abstraction degree of simulation models, limited research topics, and the need to integrate new technologies like big data and metaverse to address complex problems in the discipline."
+60,"Challenges include optimizing deep learning models for WoT efficiency, integrating Web 3.0 technologies, and addressing human-centric metaverse design."
+61,"Balancing high behavioral fidelity with low computational complexity in multiagent systems, evaluating fidelity based on subjective human judgment, and generalizing findings across different problem domains."
+62,"High mobility of vehicles, resource allocation, NP-hard problem"
+63,"Balancing opinion consensus with network dynamics, modeling real-world social interactions in virtual groups, and understanding the impact of agent heterogeneity on group behavior."
+64,"High-throughput demand, dynamic mobility, heterogeneous channels"
+65,"Ensuring timely VT migration under limited RSU coverage, optimizing bandwidth resource trading with incomplete information, and balancing privacy protection with efficient decision-making."
+66,"Resource allocation, service response latency, scalability"
+67,Multi-Agent Collaboration
+68,Metaverse
+69,Computing and Resource Management
+70,Communication and Network
+71,Blockchain and Security
+72,Communication and Network
+73,Data and Models
+74,Computing and Resource Management
+75,Communication and Network
+76,Data and Models
+77,Multi-Agent Collaboration
+78,Metaverse
