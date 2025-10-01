@@ -1,0 +1,6 @@
+=== R1 marked Relevant, R2 marked Irrelevant ===
+ID 19: Towards parallel Metaverse: symbiosis of physical and virtual worlds based on Cybertwin-enabled 6G
+
+=== R2 marked Relevant, R1 marked Irrelevant ===
+ID 20: Emerging Cooperation With Minimal Effort: Rewarding Over Mimicking
+ID 27: A Normative Agent System to Prevent Cyberbullying
