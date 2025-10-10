@@ -1,0 +1,10 @@
+Metric,Value,CI_Lower,CI_Upper
+Accuracy,0.9696969696969697,0.9090909090909091,1.0
+Precision,1.0,1.0,1.0
+Recall,0.8571428571428571,0.5,1.0
+F1,0.9230769230769231,,
+Kappa,0.9043478260869565,,
+ConflictRate,0.030303030303030304,,
+R1_only(Rel&!R2),1.0,,
+R2_only(Rel&!R1),0.0,,
+McNemar_p,1.0,,

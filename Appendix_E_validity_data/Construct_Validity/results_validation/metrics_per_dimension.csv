@@ -1,0 +1,7 @@
+dimension,n_items,n_tags,micro_f1,macro_f1,subset_accuracy,avg_jaccard,hamming_score
+Platform_Typ,10,5,1.0,1.0,1.0,1.0,1.0
+Agent_Role,10,5,1.0,1.0,1.0,1.0,1.0
+Application_Domain,10,7,1.0,1.0,1.0,1.0,1.0
+Evaluation_Method,10,3,0.9565,0.6667,0.9,0.95,0.9667
+Metrics,10,9,0.902,0.6516,0.8,0.875,0.9444
+Challenges,10,5,1.0,1.0,1.0,1.0,1.0

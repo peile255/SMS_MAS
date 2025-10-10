@@ -1,0 +1,7 @@
+Evaluation_Method,Accuracy,Efficiency,Latency,Realism,Scalability,Task completion,User satisfaction
+Benchmarks,26,0,22,9,1,21,1
+Case studies,4,0,2,3,0,2,3
+Qualitative methods,16,2,6,8,0,14,13
+Quantitative Research,6,2,2,2,0,7,2
+Simulation,93,13,75,47,2,98,21
+User studies,13,0,3,5,1,12,10
